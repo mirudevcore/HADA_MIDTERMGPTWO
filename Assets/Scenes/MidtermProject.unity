@@ -160,7 +160,7 @@ GameObject:
   m_Component:
   - component: {fileID: 108060665}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: TurretPipe
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -554,7 +554,7 @@ GameObject:
   m_Component:
   - component: {fileID: 384444524}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: FirePointOrigin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
